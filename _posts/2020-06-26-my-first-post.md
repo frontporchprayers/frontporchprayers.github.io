@@ -3,6 +3,7 @@ layout: post
 title: "My First Post"
 subtitle: "It's a good one"
 date: 2020-06-26 12:39:00
+author: Becky
 background: '/assets/porch.jpg'
 ---
 This is my first post. It sure is a good one. You can do all sorts of things with Markdown. It's just plain text, but it will look
