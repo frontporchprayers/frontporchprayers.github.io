@@ -1,1 +1,5 @@
-Hello, world!!
+---
+layout: home
+background: '/assets/porch.jpg'
+---
+welcome 
