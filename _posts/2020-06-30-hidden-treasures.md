@@ -17,6 +17,7 @@ The memories of people and emotions of times spent together are what we treasure
 
 **Prayer:**
 > Dear Lord,
+> 
 > Thank you for the provisions you have given to me. Please help me to use them well and to bless others with items they need. Help me to hold my  possessions lightly and fix my heart toward heaven and eternity with You.
 
 **Journal:** 
