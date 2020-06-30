@@ -21,6 +21,6 @@ I know all of this came from the Lord.  There is nothing we cannot do with His h
 > 
 > Thank You for your provisions. Thank You for Your peace and presence in our lives. Thank You for those You send to help us and for providing the strength and endurance we need to get through the tough times.
 
-** Journal: **
+**Journal:**
 
 In what areas are you struggling? Ask God for His help and provisions. Is there someone who could use your help today?
