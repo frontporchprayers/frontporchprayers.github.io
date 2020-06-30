@@ -5,9 +5,11 @@ date: 2020-06-30
 background: '/assets/porch.jpg'
 ---
 <div style="text-align: center;">
+  
 > “Don’t collect for yourselves treasures on earth, where moth and rust destroy and where thieves break in and steal. But collect for yourselves treasures in heaven where neither moth nor rust destroys, and where thieves don’t break in and steal. For where your treasure is, there will your heart be also.”
 > 
 > *Matthew 6:19-21*
+
 </div>
 
 I am going through our basement storage clutter. Old notebooks from our college days, outdated catalogues, pieces of long forgotten toys, and manuals to items we no longer own are filling trash bags and going to the curb. Some items can be added to my kitchen and office supplies I will repurpose.
